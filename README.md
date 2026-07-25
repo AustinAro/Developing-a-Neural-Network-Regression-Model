@@ -153,6 +153,8 @@ print(f'Prediction: {prediction}')
 
 ### OUTPUT
 
+<img width="146" height="310" alt="Screenshot 2026-07-25 173419" src="https://github.com/user-attachments/assets/4bfaa549-5e02-461e-9af8-3e7fb433d8d4" />
+
 
 <img width="228" height="385" alt="Screenshot 2026-07-25 172438" src="https://github.com/user-attachments/assets/36d11040-0b61-4660-9464-4a6777625892" />
 
