@@ -104,8 +104,8 @@ ai_brain=NeuralNet()
 criterion=nn.MSELoss()
 optimizer=optim.Adam(ai_brain.parameters(),lr=0.001)
 
-# Name: RESHMA R
-# Register Number: 212224040274
+# Name: Austin Aro A
+# Register Number: 212224040038
 def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
     # Write your code here
     for epoch in range(epochs):
